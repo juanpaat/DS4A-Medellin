@@ -1,2 +1,3 @@
 # DS4A-Medellin
-This Repo is about the project of the Correlation one - DS4A program
+This Repo contain information the Correlation one - DS4A-Medellín program
+
